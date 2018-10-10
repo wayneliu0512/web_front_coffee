@@ -1,0 +1,22 @@
+*{
+/*   border: solid 1px black; */
+  vertical-align: top;
+}
+.card{
+  width: 100%;
+  display: flex;
+  border: solid 2px black;
+  background-color: #e8dbc2;
+}
+.left{
+  width: 30%;
+  background-image: url(http://wonder4.co/wp-content/uploads/2015/07/specialty-coffee-cappuccino-latte-hot-chocolate-mocha2.jpg);
+  background-size: cover;
+}
+.right{
+  width: 70%;
+}
+ul li{
+  width: 30%;
+  display: inline-block;
+}
